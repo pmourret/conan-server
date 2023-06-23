@@ -11,7 +11,7 @@ Voir sur [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=27910289
 ---
 
 ![lien](https://steamuserimages-a.akamaihd.net/ugc/2036230010848062166/D42FFC0CD11634B9184BA91B5EE12BADF0E41FA7/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
-### **Immersive Warriors**
+### ⚠️ **Immersive Warriors** 
 Voir sur [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2799969322).
   
 > MOD_ID : **2799969322**
@@ -19,7 +19,7 @@ Voir sur [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=27999693
 ---
 
 ![lien](https://steamuserimages-a.akamaihd.net/ugc/1809908637929567682/6290C7EA17237E3911B2423BEF0D39177AB53E96/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
-### **SorceryTweaks**
+### ⚠️**SorceryTweaks**
 Voir sur [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2868539295)
   
 > MOD_ID : **2868539295**
@@ -186,7 +186,7 @@ Voir sur [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=20507802
 ---
 
 ![lien](https://steamuserimages-a.akamaihd.net/ugc/1696128786318500364/8422262CE20B8CACCA20D02931D49747BA19FA7C/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
-### **High Heels System**
+### ⚠️**High Heels System**
 Voir sur [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2010870025)
   
 > MOD_ID : **2010870025**
@@ -298,7 +298,7 @@ Voir sur [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=93378298
 ---
 
 ![lien](https://steamuserimages-a.akamaihd.net/ugc/767147712793172415/49FB38B5D9A415BB89F4B618B58712E4DFD9AA48/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
-### **Better Thralls**
+### ⚠️**Better Thralls**
 Voir sur [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=931088249)
   
 > MOD_ID : **931088249**
