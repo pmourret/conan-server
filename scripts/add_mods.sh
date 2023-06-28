@@ -1,0 +1,4 @@
+#/bin/sh
+
+# Mods must be declared at the end of this line (using only ID)
+/usr/bin/screen -d -m  steamcmd +@sSteamCmdForcePlatformType windows +login anonymous +workshop_download_item 440900 1113901982 +workshop_download_item 440900 1734383367 +workshop_download_item 440900 2799362941 +workshop_download_item 440900 2772364595 +workshop_download_item 440900 2866773381 +workshop_download_item 440900 2864811796 +workshop_download_item 440900 2050780234 +workshop_download_item 440900 1629644846 +workshop_download_item 440900 1542041983 +workshop_download_item 440900 2275543723 +workshop_download_item 440900 1369743238 +workshop_download_item 440900 1976970830 +workshop_download_item 440900 1815573406 +workshop_download_item 440900 1966733568 +workshop_download_item 440900 2842779736 +workshop_download_item 440900 880454836 +exit
